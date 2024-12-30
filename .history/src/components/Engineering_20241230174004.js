@@ -12,8 +12,8 @@ const Engineering = () => {
             <p>All my school/side projects</p>
             <div className="projects-container">
                 <Link to="basketbin"><button>basketbin</button></Link>
-                <Link to="academates"><button>academates</button></Link>
-                <Link to="tiktokviewpredictor"><button>tiktok view predictor</button></Link>
+                <Link to="academates"><button>Academates</button></Link>
+                <Link to="tiktokviewpredictor"><button>TikTokViewPredictor</button></Link>
             </div>
             <div className="github-link">
                 <a href="https://github.com/nicholaschen09" target="_blank" rel="noopener noreferrer">

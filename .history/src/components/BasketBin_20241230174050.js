@@ -5,7 +5,7 @@ const BasketBin = () => {
     return (
         <div className="center-wrapper">
             <div className="basketbin">
-                <h1>basketbin</h1>
+                <h1>basketBin</h1>
                 <p>This is BasketBin. Our innovative waste management solution.</p>
 
                 <h3>About the Project</h3>

@@ -5,7 +5,7 @@ const TikTokViewPredictor = () => {
     return (
         <div className="center-wrapper">
             <div className="tiktokviewpredictor">
-                <h1>tiktok view predictor</h1>
+                <h1>tikTok View Predictor</h1>
                 <p>Welcome to the BasketBin project page. This is where you'll find information about our innovative waste management solution.</p>
 
                 <h3>About the Project</h3>
