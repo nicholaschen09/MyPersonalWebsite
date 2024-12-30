@@ -1,6 +1,7 @@
 import React from 'react';
 import './BasketBin.css';
 
+
 const BasketBin = () => {
     const handleGoBack = () => {
         window.history.back();

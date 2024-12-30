@@ -1,6 +1,13 @@
 import React from 'react';
 import './BasketBin.css';
 
+const linkStyle = {
+    textDecoration: 'none',
+    color: '#008080',
+    fontSize: '16px',
+    padding: '10px'
+};
+
 const BasketBin = () => {
     const handleGoBack = () => {
         window.history.back();

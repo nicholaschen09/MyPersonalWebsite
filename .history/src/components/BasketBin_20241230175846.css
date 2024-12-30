@@ -12,7 +12,6 @@
     margin-top: -20px;
     /* Adjust this value to move the button further up */
 }
-
 .back-button:hover {
     background-color: rgba(255, 0, 144, 0.733);
     color: #fff;

@@ -49,14 +49,11 @@ body {
   padding: 10;
   display: flex;
   justify-content: center;
-  align-items: center;
-  justify-content: center;
-  background-color: #8cd296;
+  background-color: #8cd296;;
 }
 
 .horizontal-menu li {
   margin: 10 20px;
-  justify-content: center;
 }
 
 .horizontal-menu li a {
@@ -64,7 +61,6 @@ body {
   color: rgba(255, 0, 144, 0.733);
   font-size: 14px;
   padding: 20px;
-  justify-content: center;
 }
 
 .horizontal-menu li a:hover {

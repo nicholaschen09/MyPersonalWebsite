@@ -45,26 +45,23 @@ body {
 
 .horizontal-menu {
   list-style-type: none;
-  margin: 10;
+  margin: 0;
   padding: 10;
   display: flex;
   justify-content: center;
-  align-items: center;
-  justify-content: center;
-  background-color: #8cd296;
+  background-color: #f8f8f8;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
 
 .horizontal-menu li {
-  margin: 10 20px;
-  justify-content: center;
+  margin: 10 15px;
 }
 
 .horizontal-menu li a {
   text-decoration: none;
   color: rgba(255, 0, 144, 0.733);
-  font-size: 14px;
+  font-size: 16px;
   padding: 20px;
-  justify-content: center;
 }
 
 .horizontal-menu li a:hover {

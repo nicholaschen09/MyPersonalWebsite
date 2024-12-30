@@ -2,14 +2,9 @@ import React from 'react';
 import './BasketBin.css';
 
 const BasketBin = () => {
-    const handleGoBack = () => {
-        window.history.back();
-    };
+    
     return (
         <div className="center-wrapper">
-            <button className="back-button" onClick={handleGoBack}>
-                Back
-            </button>
             <div className="basketbin">
                 <h1>basketbin</h1>
                 <p>This is BasketBin. Our innovative waste management solution.</p>

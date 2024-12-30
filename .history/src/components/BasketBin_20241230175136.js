@@ -1,11 +1,36 @@
 import React from 'react';
 import './BasketBin.css';
 
+const linkStyle = {
+    textDecoration: 'none',
+    color: '#008080',
+    fontSize: '16px',
+    padding: '10px'
+};
+
 const BasketBin = () => {
     const handleGoBack = () => {
         window.history.back();
     };
     return (
+        <Router>
+            <div>
+                <nav className="top-nav">
+                    <ul>
+                        <li>
+                            <Link to="/" style={linkStyle}>Home</Link>
+                        </li>
+                        <li>
+                            <Link to="/about" style={linkStyle}>About</Link>
+                        </li>
+                        <li>
+                            <Link to="/projects" style={linkStyle}>Projects</Link>
+                        </li>
+                        <li>
+                            <Link to="/blog" style={linkStyle}>Blog</Link>
+                        </li>
+                    </ul>
+                </nav>
         <div className="center-wrapper">
             <button className="back-button" onClick={handleGoBack}>
                 Back

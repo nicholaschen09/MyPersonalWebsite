@@ -7,10 +7,8 @@
     font-size: 14px;
     transition: background-color 0.3s, color 0.3s;
     border-radius: 3px;
-    margin: 10px 10px 20px;
+    margin: 10px 10px 2;
     color: rgba(255, 0, 144, 0.733);
-    margin-top: -20px;
-    /* Adjust this value to move the button further up */
 }
 
 .back-button:hover {
