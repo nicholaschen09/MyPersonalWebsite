@@ -12,15 +12,15 @@ const Home = () => {
             <h1>hi, my name is nicholas chen</h1>
             <p>welcome to my personal website. here is everything from my brain dumped onto a screen.</p>
             <div className="section">
-                <div className="homebuttons">
+                <div className="engineering">
                     <Link to="blog"><button>Blogs</button></Link>
                     <Link to="about"><button>About</button></Link>
                     <Link to="projects"><button>Projects</button></Link>
                 </div>
             </div>
             <div className="section">
-                <h3>links</h3>
-                <div className="engineering">
+                <h3>Other Links</h3>
+                <div className="e">
                     <a href="https://github.com/nicholaschen09" target="_blank" rel="noopener noreferrer">
                         <button>GitHub</button>
                     </a>

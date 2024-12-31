@@ -19,7 +19,7 @@ const Home = () => {
                 </div>
             </div>
             <div className="section">
-                <h3>links</h3>
+                <h3>Other links</h3>
                 <div className="engineering">
                     <a href="https://github.com/nicholaschen09" target="_blank" rel="noopener noreferrer">
                         <button>GitHub</button>

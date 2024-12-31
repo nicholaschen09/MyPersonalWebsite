@@ -85,7 +85,7 @@ p {
 
 .homebuttons a button {
     border: 1px solid rgba(255, 0, 144, 0.733);
-    padding: 20px 80px;
+    padding: 21px 80px;
     background-color: #8cd296;
     color: #000000;
     cursor: pointer;
@@ -94,19 +94,14 @@ p {
     border-radius: 3px;
     text-decoration: none;
     color: rgba(255, 0, 144, 0.733);
-    margin: 10px;
-    margin-bottom: 30px;
-    /* Added more margin at the bottom */
+    margin: 5px;
 }
 
 .homebuttons a button:hover {
-    background-color: rgba(255, 0, 144, 0.733);
-    color: #fff;
+    background-color: #7bbd85;
 }
 
 .large-button {
     font-size: 20px;
     padding: 10px 20px;
-    margin-bottom: 20px;
-    /* Added more margin at the bottom */
 }

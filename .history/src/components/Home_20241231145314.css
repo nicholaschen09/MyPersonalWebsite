@@ -95,8 +95,6 @@ p {
     text-decoration: none;
     color: rgba(255, 0, 144, 0.733);
     margin: 10px;
-    margin-bottom: 30px;
-    /* Added more margin at the bottom */
 }
 
 .homebuttons a button:hover {
@@ -107,6 +105,4 @@ p {
 .large-button {
     font-size: 20px;
     padding: 10px 20px;
-    margin-bottom: 20px;
-    /* Added more margin at the bottom */
 }
