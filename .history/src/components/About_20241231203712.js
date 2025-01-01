@@ -54,6 +54,7 @@ const About = () => {
                     </div>
                     <div className="experience">
                         <h2>experience</h2>
+
                         <h3>Royal Bank of Canada</h3>
                         <p>Innovation Developer Intern | July 2024 – August 2024 | Toronto, Ontario</p>
                         <ul>

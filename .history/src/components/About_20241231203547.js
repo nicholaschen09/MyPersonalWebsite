@@ -54,6 +54,13 @@ const About = () => {
                     </div>
                     <div className="experience">
                         <h2>experience</h2>
+                        <h3>Royal Bank of Canada (RBCx) - Ownr</h3>
+                        <p>Software Developer Intern | January 2024 – April 2024 | Toronto, Ontario</p>
+                        <ul>
+                            <li>Developed and maintained software solutions using JavaScript, Node.js, and React to build dynamic, user-friendly web applications.</li>
+                            <li>Collaborated with cross-functional teams to implement features for customer sign-in forecasting, improving user experience and resource allocation efficiency.</li>
+                            <li>Used Git for version control, ensuring collaborative code development and consistent code quality across teams.</li>
+                        </ul>
                         <h3>Royal Bank of Canada</h3>
                         <p>Innovation Developer Intern | July 2024 – August 2024 | Toronto, Ontario</p>
                         <ul>
