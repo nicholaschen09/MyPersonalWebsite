@@ -33,7 +33,7 @@ const About = () => {
                             <img src={ArtWebsiteLogo} alt="Art Website" className="social-icon" />
                         </a>
                     </div>
-                </div>
+            
                 <div className="bordered-section">
                     <div className="education">
                         <h2>education</h2>
@@ -112,7 +112,8 @@ const About = () => {
                         </ul>
                     </div>
                 </div>
-            </div>
+                </div>
+                    </div>
         </div>
     );
 };

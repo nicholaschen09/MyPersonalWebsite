@@ -5,7 +5,7 @@
     margin-right: auto;
     padding: 50px 150px 10px 150px;
     width: 1000px;
-    margin-bottom: 100px;
+    margin-bottom: px;
     /* Increased width */
 }
 
@@ -23,7 +23,7 @@
     display: inline-block;
     text-align: center;
     margin-top: 20px;
-    width: 96%;
+    width: 84%;
     /* Ensure it takes full width of the parent */
 }
 
@@ -46,6 +46,7 @@
 }
 
 .experience {
+    border: 1px solid rgba(255, 0, 144, 0.733);
     padding: 10px;
     margin-top: 20px;
     border-radius: 5px;
@@ -54,30 +55,4 @@
     margin-left: auto;
     margin-right: auto;
     /* Center the experience box */
-}
-
-.bordered-section {
-    border: 1px solid rgba(255, 0, 144, 0.733);
-    padding: 20px;
-    margin-top: 20px;
-    border-radius: 5px;
-}
-
-
-.about h3 {
-    font-size: 14px;
-    /* Adjust the heading sizes as needed */
-}
-
-.about p,
-.about ul {
-    font-size: 14px;
-    /* Adjust the paragraph and list sizes as needed */
-}
-
-.social-icon {
-    width: 24px;
-    /* Adjust the icon size as needed */
-    height: 24px;
-    /* Adjust the icon size as needed */
 }

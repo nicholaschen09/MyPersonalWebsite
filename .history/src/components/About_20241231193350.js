@@ -33,7 +33,7 @@ const About = () => {
                             <img src={ArtWebsiteLogo} alt="Art Website" className="social-icon" />
                         </a>
                     </div>
-                </div>
+            
                 <div className="bordered-section">
                     <div className="education">
                         <h2>education</h2>
@@ -111,6 +111,7 @@ const About = () => {
                             <li>Assisted in designing and prototyping fuel-efficient systems, contributing to a 20% improvement in system reliability through over 50 hours of modeling, simulation, and analysis using SOLIDWORKS and AutoCAD.</li>
                         </ul>
                     </div>
+                </div>
                 </div>
             </div>
         </div>

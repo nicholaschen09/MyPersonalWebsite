@@ -85,7 +85,7 @@ p {
 
 .homebuttons a button {
     border: 1px solid rgba(255, 0, 144, 0.733);
-    padding: 20px 60px;
+    padding: 20px 80px;
     background-color: #93cd9c;
     color: #000000;
     cursor: pointer;
@@ -96,7 +96,7 @@ p {
     color: rgba(255, 0, 144, 0.733);
     margin: 10px;
     margin-bottom: 30px;
-    width: 250px;
+    width: 300px;
     /* Added more margin at the bottom */
 }
 
@@ -115,7 +115,7 @@ p {
 .links button {
     width: 175px;
     border: 1px solid rgba(255, 0, 144, 0.733);
-    padding: 10px 40px;
+    padding: 10px 0px;
     background-color: #93cd9c;
     color: #000000;
     cursor: pointer;

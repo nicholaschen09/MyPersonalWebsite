@@ -63,7 +63,8 @@
     border-radius: 5px;
 }
 
-
+.about h1,
+.about h2,
 .about h3 {
     font-size: 14px;
     /* Adjust the heading sizes as needed */
@@ -71,7 +72,7 @@
 
 .about p,
 .about ul {
-    font-size: 14px;
+    font-size: 12px;
     /* Adjust the paragraph and list sizes as needed */
 }
 
