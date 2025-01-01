@@ -23,16 +23,13 @@ const Photography = () => {
             </button>
             <div className="photography">
                 <h1>photography</h1>
-                <div className="content">
-                    <p>all my photography stuff</p>
-                    <div className="image-gallery">
-                        {images.map((image, index) => (
-                            <div key={index} className="image-container">
-                                <img src={image} alt={`Photography ${index + 1}`} />
-                            </div>
-                        ))}
-
-                    </div>
+                
+                <div className="image-gallery">
+                    {images.map((image, index) => (
+                        <div key={index} className="image-container">
+                            <img src={image} alt={`Photography ${index + 1}`} />
+                        </div>
+                    ))}
                 </div>
             </div>
         </div>

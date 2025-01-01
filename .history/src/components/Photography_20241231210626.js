@@ -25,6 +25,9 @@ const Photography = () => {
                 <h1>photography</h1>
                 <div className="content">
                     <p>all my photography stuff</p>
+                  
+                    <p> </p>
+                    <p> </p>
                     <div className="image-gallery">
                         {images.map((image, index) => (
                             <div key={index} className="image-container">
