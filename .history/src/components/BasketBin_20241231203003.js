@@ -12,7 +12,7 @@ const BasketBin = () => {
             </button>
             <div className="basketbin">
                 <h1>basketbin</h1>
-                <div className="content">
+           <div className="content">     
                     <p>This is BasketBin. Our innovative waste management solution.</p>
 
                     <h3>About the Project</h3>

@@ -13,12 +13,11 @@
     padding: 50px 150px 10px 150px;
 }
 
-.tiktokviewpredictor {
+.academates {
     width: 100%;
     max-width: 1200px;
     /* Set a max-width to ensure readability */
 }
-
 .project-info h2 {
     color: #FF0090;
 }

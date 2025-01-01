@@ -1,19 +1,22 @@
 import React from 'react';
-import './VolunTrack.css';
+import styles from './TikTokViewPredictor.css';
 
-const VolunTrack = () => {
+const TikTokViewPredictor = () => {
     const handleGoBack = () => {
         window.history.back();
     };
-
     return (
         <div className="center-wrapper">
             <button className="back-button" onClick={handleGoBack}>
                 Back
             </button>
-            <div className="voluntrack">
-                <h1>VolunTrack</h1>
-                <div className="content">
+            <div className="tiktokviewpredictor">
+                <h1>tiktok view predictor</h1>
+                <div className="content">.academates {
+                    width: 100%;
+                    max-width: 1200px;
+    /* Set a max-width to ensure readability */
+}
                     <p>Welcome to the BasketBin project page. This is where you'll find information about our innovative waste management solution.</p>
 
                     <h3>About the Project</h3>
@@ -41,4 +44,4 @@ const VolunTrack = () => {
     );
 }
 
-export default VolunTrack;
+export default TikTokViewPredictor;

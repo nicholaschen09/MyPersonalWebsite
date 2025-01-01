@@ -12,9 +12,8 @@ const Solidworks = () => {
             <div className="solidworks">
                 <h1>portfolio</h1>
                 <div className="content">
-                    <p>This is a detailed description of my SolidWorks project.</p>
-                    <p>Here you can add more information about the project, images, videos, etc.</p>
-                </div>
+                <p>This is a detailed description of my SolidWorks project.</p>
+                <p>Here you can add more information about the project, images, videos, etc.</p>
             </div>
         </div>
     );

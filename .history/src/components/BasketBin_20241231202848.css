@@ -1,3 +1,23 @@
+.back-button {
+    border: 1px solid rgba(255, 0, 144, 0.733);
+    padding: 4px 8px;
+    background-color: #93cd9c;
+    color: #000000;
+    cursor: pointer;
+    font-size: 14px;
+    transition: background-color 0.3s, color 0.3s;
+    border-radius: 3px;
+    margin: 10px 15px 20px;
+    color: rgba(255, 0, 144, 0.733);
+    margin-top: -20px;
+    /* Adjust this value to move the button further up */
+}
+
+.back-button:hover {
+    background-color: rgba(255, 0, 144, 0.733);
+    color: #fff;
+}
+
 .project-info {
     background-color: #ffffff;
     border-radius: 8px;
@@ -11,12 +31,6 @@
     justify-content: center;
     align-items: flex-start;
     padding: 50px 150px 10px 150px;
-}
-
-.tiktokviewpredictor {
-    width: 100%;
-    max-width: 1200px;
-    /* Set a max-width to ensure readability */
 }
 
 .project-info h2 {
@@ -42,4 +56,8 @@
     height: auto;
     margin-top: 10px;
     border-radius: 4px;
+}
+
+.content1 {
+    font-size: 14px;
 }
